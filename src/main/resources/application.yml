@@ -99,3 +99,5 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.kivi.huidada.controller
+ai:
+  apiKey: c3f9f6c47e96a5ab00a9f00208de4a63.BPoYhebCB8FVZZ3Z
